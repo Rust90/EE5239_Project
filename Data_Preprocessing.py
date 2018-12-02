@@ -8,9 +8,9 @@ Created on Sat Dec  1 14:31:33 2018
 #%% Data Preprocessing
 # Import
 import pandas as pd
-import random
 import numpy as np
 from random import sample
+from ortools.graph import pywrapgraph
 
 #%%
 # Load the data
@@ -25,8 +25,7 @@ rindex =  np.array(sample(xrange(len(child_1)), 9549))
 child_1_sample = child_1.ix[rindex]
 child_2_sample = child_2[0:400]
 child_3_sample = child_3[0:51]
-
-
+child_sample = pd.concat([child_3_sample, child_2_sample, child_1_sample])
 
 
 
