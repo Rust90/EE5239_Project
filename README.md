@@ -12,3 +12,7 @@
 - https://www.kaggle.com/zfturbo/max-flow-with-min-cost-v2-0-9267/code Max Flow with Min Cost v2 [0.9267]
 - https://github.com/songzy12/SantaGiftMatching/blob/master/src/min_cost_flow.py
 - https://www.kaggle.com/c/santa-gift-matching/discussion/47376 Winner solution, with relaxation
+
+# Data Preprocessing
+## Installation of OR-Tools
+- https://developers.google.com/optimization/install/python/source_mac
