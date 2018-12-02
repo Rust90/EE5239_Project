@@ -7,5 +7,5 @@
 - http://www.gurobi.com/resources/getting-started/mip-basics Gurobi
 - https://blog.csdn.net/martinue/article/details/51539826 二分图最大匹配，最小费用流
 ### Solution
-- https://github.com/louis925/kaggle-santa-gift-matching-challenge one solution using C++
-- https://github.com/KazukiOnodera/Santa2017/blob/master/solution/proof.pdf
+- https://github.com/louis925/kaggle-santa-gift-matching-challenge using C++; Monte Carlo; Min-Cost Max-Flow
+- https://github.com/KazukiOnodera/Santa2017 https://github.com/KazukiOnodera/Santa2017/blob/master/solution/proof.pdf using Python; Min-Cost Max-Flow
