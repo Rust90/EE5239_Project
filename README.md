@@ -1,4 +1,4 @@
-# EE5239 Project
+# EE5239 Final Project
 
 ## Reference
 ### Tutorial
